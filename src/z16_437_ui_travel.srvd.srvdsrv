@@ -1,0 +1,4 @@
+@EndUserText.label: 'Ui'
+define service Z16_437_UI_TRAVEL {
+  expose Z16_437_C_TRAVEL;
+}
