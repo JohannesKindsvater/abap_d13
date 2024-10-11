@@ -1,0 +1,10 @@
+@Metadata.layer: #PARTNER
+annotate entity Z16_C_EmployeeQueryP
+  with parameters
+  @EndUserText.label: 'Currency Conversion Date'
+  p_date
+{
+  @EndUserText.label: 'Department Name'
+  assistantname;
+  
+}
